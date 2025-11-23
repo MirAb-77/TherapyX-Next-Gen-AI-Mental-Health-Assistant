@@ -32,4 +32,3 @@ This video demonstrates the **real-time emergency response functionality** of Th
 
 ---
 
-If you want, I can also make an **even shorter, punchy version** suitable for the top of a GitHub README that immediately grabs attention. Do you want me to do that?
